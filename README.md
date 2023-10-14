@@ -33,6 +33,7 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=0D1117)
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=python&logoColor=092E20&labelColor=0D1117)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0D1117)
 
 
 ### Studying in this moment:
