@@ -4,10 +4,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaovb&bg_color=0a0c10&color=ffffff&line=0084ff&point=00ebdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=dev-joaovb&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> -->
-  <img src="https://streak-stats.demolab.com?user=dev-joaovb&theme=dark&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideNums=00bfff&sideLabels=00bfff&dates=c9d1d9" />
-</p>
+<div align="center">
+<!--   <img src="https://streak-stats.demolab.com?user=dev-joaovb&theme=dark&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideNums=00bfff&sideLabels=00bfff&dates=c9d1d9" /> -->
+<!--   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/streak?username=dev-joaovb" alt="GitHub Streak Card" /> -->
+<img src="https://streak-stats.demolab.com?user=dev-joaovb&theme=dark&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&sideLabels=00bfff&dates=c9d1d9" alt="GitHub Streak Stats" />
+
+</div>
 
 
 <div align="center">
