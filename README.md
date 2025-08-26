@@ -5,10 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaovb&bg_color=0a0c10&color=ffffff&line=0084ff&point=00ebdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=dev-joaovb&theme=dark&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideNums=00bfff&sideLabels=00bfff&dates=c9d1d9" /> -->
-<!--   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/streak?username=dev-joaovb" alt="GitHub Streak Card" /> -->
-<img src="https://streak-stats.demolab.com?user=dev-joaovb&theme=dark&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&sideLabels=00bfff&dates=c9d1d9" alt="GitHub Streak Stats" />
-
+<!-- <img src="https://github-readme-streak-stats-2-three.vercel.app?user=dev-joaovb&theme=dark&border_radius=10&locale=pt_BR&short_numbers=true&exclude_days=Sun%2CSat&card_height=190&border=3910FF&background=45%2C02206655%2C02206655" alt="GitHub Streak" /> -->
+<img src="https://github-readme-streak-stats-2-three.vercel.app?user=dev-joaovb&theme=dark&border_radius=10&locale=pt_BR&short_numbers=true&exclude_days=Sun%2CSat&card_width=650&card_height=190&border=3910FF&background=45%2C02206655%2C02206655" alt="GitHub Streak" />  
 </div>
 
 
