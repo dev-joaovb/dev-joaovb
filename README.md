@@ -84,6 +84,7 @@
 <img src="https://img.shields.io/badge/-Elementor-0D1117?style=flat-square&logo=elementor&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
 <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
 <img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
+<img src="https://img.shields.io/badge/-REACT-0D1117?style=flat-square&logo=react&logoColor=F37626&labelColor=0D1117" height="140" width="140" />
 
 </div>
 
@@ -95,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-REACT-0D1117?style=flat-square&logo=react&logoColor=F37626&labelColor=0D1117" height="120" width="120" />
+
 <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
 <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=21759B&labelColor=0D1117" height="140" width="140" />
 <img src="https://img.shields.io/badge/-Postgres-0D1117?style=flat-square&logo=postgresql&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
