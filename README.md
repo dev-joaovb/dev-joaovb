@@ -4,7 +4,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaovb&bg_color=0a0c10&color=ffffff&line=0084ff&point=00ebdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<p align="center"> 
 
   <a href="https://github.com/dev-joaovb?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dev-joaovb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
