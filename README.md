@@ -56,35 +56,36 @@
 </div>
 
 ### Languages
-<div align="center">
-<!-- Linguagens -->
 
-<img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117" height="120" width="120" />
-<img src="https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=css&logoColor=1572B6&labelColor=0D1117" width="110" height="110" />
-<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117" height="160" width="160" />
-<img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117" height="150" width="150" />
-<img src="https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=purple&labelColor=0D1117" height="110" width="110" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4&labelColor=0D1117" height="40" />
 
 </div>
 
 <br>
 
-<hr/> <!-- Linha -->
+<hr>
 
 <br>
 
 ### Frameworks
+
 <div align="center">
-<!-- Frameworks / Ferramentas -->
-<img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&labelColor=0D1117" height="140" width="140" />
-<img src="https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=092E20&labelColor=0D1117" height="140" width="140" />
-<img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=563D7C&labelColor=0D1117" height="160" width="160" />
-<img src="https://img.shields.io/badge/-N8N-0D1117?style=flat-square&logo=n8n&logoColor=F37626&labelColor=0D1117" height="100" width="100" />
-<img src="https://img.shields.io/badge/-WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
-<img src="https://img.shields.io/badge/-Elementor-0D1117?style=flat-square&logo=elementor&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
-<img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
-<img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
-<img src="https://img.shields.io/badge/-REACT-0D1117?style=flat-square&logo=react&logoColor=F37626&labelColor=0D1117" height="140" width="140" />
+
+<img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=092E20&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=21759B&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-Elementor-0D1117?style=flat-square&logo=elementor&logoColor=92003B&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=00C4CC&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" height="40" />
 
 </div>
 
@@ -96,11 +97,9 @@
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
-<img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=21759B&labelColor=0D1117" height="140" width="140" />
-<img src="https://img.shields.io/badge/-Postgres-0D1117?style=flat-square&logo=postgresql&logoColor=21759B&labelColor=0D1117" height="160" width="160" />
-
+<img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" height="40" />
 
 </div>
 
@@ -110,11 +109,13 @@
 
 <h1>Language level</h1>
 
-<b>🇺🇸 English: 
+<b>🇺🇸 English:
 <img src="https://geps.dev/progress/45?successColor=00bfff" alt="English Level" /></b>
-<b>🇪🇸 Spanish: 
+
+<b>🇪🇸 Spanish:
 <img src="https://geps.dev/progress/30?successColor=CF6B06" alt="Spanish Level" /></b>
-<b>🇩🇪 German: 
+
+<b>🇩🇪 German:
 <img src="https://geps.dev/progress/15?successColor=F24F00" alt="German Level" /></b>
 
 </div>
@@ -122,12 +123,11 @@
 <br>
 
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=dev-joaovb&label=TODAS+AS+VISITAS" height="140" width="140" />
-    
-  </p> 
-  <br>
+
+<p><b>Visitors Count</b></p>
+
+<img src="https://komarev.com/ghpvc/?username=dev-joaovb&label=TODAS+AS+VISITAS" height="35" />
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
