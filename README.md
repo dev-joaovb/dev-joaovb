@@ -20,11 +20,19 @@
 <img src="https://github-readme-streak-stats-2-three.vercel.app?user=dev-joaovb&theme=dark&border_radius=10&locale=pt_BR&short_numbers=true&exclude_days=Sun%2CSat&card_width=650&card_height=190&border=3910FF&background=45%2C02206655%2C02206655" alt="GitHub Streak" />  
 </div>
 
+<br>
 
 <div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-joaovb&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaovb&layout=compact&hide_border=true&title_color=00bfff&text_color=00bfff&bg_color=0d1117" />
+
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-joaovb&show_icons=true&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-joaovb&layout=compact&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=00BFFF"/>
+
 </div>
 
 <br>
