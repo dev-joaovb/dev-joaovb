@@ -79,18 +79,18 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=092E20&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" height="40" />
 <img src="https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0D1117" height="40" />
 <img src="https://img.shields.io/badge/-WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=21759B&labelColor=0D1117" height="40" />
 <img src="https://img.shields.io/badge/-Elementor-0D1117?style=flat-square&logo=elementor&logoColor=92003B&labelColor=0D1117" height="40" />
 <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=00C4CC&labelColor=0D1117" height="40" />
+<img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" height="40" />
 <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" height="40" />
 
 </div>
 
-<br>
+<!-- <br>
 
 <div align="center">
 <h1>Studying in this moment</h1>
@@ -102,7 +102,7 @@
 <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1117" height="40" />
 <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" height="40" />
 
-</div>
+</div> -->
 
 <br>
 
@@ -111,7 +111,7 @@
 <h1>Language level</h1>
 
 <b>🇺🇸 English:
-<img src="https://geps.dev/progress/45?successColor=00bfff" alt="English Level" /></b>
+<img src="https://geps.dev/progress/57?successColor=00bfff" alt="English Level" /></b>
 
 <b>🇪🇸 Spanish:
 <img src="https://geps.dev/progress/30?successColor=CF6B06" alt="Spanish Level" /></b>
