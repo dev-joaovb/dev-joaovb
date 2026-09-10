@@ -1,5 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dev-joaovb/dev-joaovb/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dev-joaovb/dev-joaovb/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  >
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/dev-joaovb/dev-joaovb/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  >
+</picture>
+
+<br>
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+João+Victor;I'm+28+years+old;I'm+from+Brazil;I'm+Graduated+Software+Engineering;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph-mu-six.vercel.app/graph?username=dev-joaovb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -130,5 +149,14 @@
 <img src="https://komarev.com/ghpvc/?username=dev-joaovb&label=TODAS+AS+VISITAS" height="35" />
 
 </div>
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/dev-joaovb/dev-joaovb/snake-output/snake.svg"
+  alt="Snake animation"
+/>
+
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
