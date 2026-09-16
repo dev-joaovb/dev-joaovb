@@ -51,8 +51,13 @@
 <br>
 
 <div align="center">
-  
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=dev-joaovb&theme=algolia&row=1">
+
+<!-- <h1>GitHub Trophies</h1> -->
+
+<img
+  src="https://trophygithubreadmelang.cybee.dpdns.org/?username=dev-joaovb&theme=algolia&column=2&row=4&margin-w=15&margin-h=15"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
