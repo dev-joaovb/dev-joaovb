@@ -22,7 +22,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
+          output_path: dist/trophy.svg
           token: ${{ github.token }}
           theme: algolia
           max-rows: 1
