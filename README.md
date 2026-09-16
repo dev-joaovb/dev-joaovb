@@ -19,7 +19,8 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+João+Victor;I'm+28+years+old;I'm+from+Brazil;I'm+Graduated+Software+Engineering;Be+Welcome+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+VICTOR;SOFTWARE+ENGINEERING+GRADUATE;FULL+STACK+DEVELOPER;REACT+%2B+NODE.JS+DEVELOPER;BUILDING+SOFTWARE+WITH+TYPESCRIPT;WELCOME+TO+MY+PROFILE+%3A%29)](https://git.io/typing-svg)
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph-mu-six.vercel.app/graph?username=dev-joaovb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -49,6 +50,14 @@
 
 <br>
 
+<div align="center">
+  
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=dev-joaovb&theme=algolia&row=1">
+
+</div>
+
+<br>
+
 <div align="center"> 
 
    <h1>Main Accounts</h1>
@@ -72,42 +81,195 @@
 <br>
 
 <div align="center">
+
 <h1>Main Skills</h1>
-</div>
 
-### Languages
+<table>
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4&labelColor=0D1117" height="40" />
+<table>
+<tr>
+<td colspan="3" align="center">
+<h3>LANGUAGES</h3>
+</td>
+</tr>
 
-</div>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>
+HTML5
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
+CSS3
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>
+JavaScript
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>
+<b>TypeScript</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>
+Python
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>
+PHP
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td colspan="3" align="center">
+<h3>FRAMEWORKS & LIBRARIES</h3>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br>
+<b>React</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br>
+Express
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/><br>
+Vite
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br>
+Tailwind CSS
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45"/><br>
+Prisma
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<hr>
+<table>
+<tr>
 
-<br>
+<td width="50%" valign="top">
 
-### Frameworks
+<table>
+<tr>
+<td colspan="2" align="center">
+<h3>DATABASES</h3>
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>
+PostgreSQL
+</td>
 
-<img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=21759B&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-Elementor-0D1117?style=flat-square&logo=elementor&logoColor=92003B&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" height="40" />
-<img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" height="40" />
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>
+MySQL
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td colspan="4" align="center">
+<h3>TOOLS & PLATFORMS</h3>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>
+GitHub
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br>
+Docker
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br>
+Figma
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45"/><br>
+WordPress
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/-Elementor-0D1117?style=flat-square&logo=elementor&logoColor=92003B&labelColor=0D1117" height="50"/><br>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0D1117" height="50"/><br>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>
+Linux
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
 
 <!-- <br>
 
@@ -130,7 +292,7 @@
 <h1>Language level</h1>
 
 <b>🇺🇸 English:
-<img src="https://geps.dev/progress/57?successColor=00bfff" alt="English Level" /></b>
+<img src="https://geps.dev/progress/62?successColor=00bfff" alt="English Level" /></b>
 
 <b>🇪🇸 Spanish:
 <img src="https://geps.dev/progress/30?successColor=CF6B06" alt="Spanish Level" /></b>
