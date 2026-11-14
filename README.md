@@ -69,17 +69,34 @@
 
    <br>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sejoaovb/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/449804/linkedin.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/sejoaovb"><img width="40px" alt="Instagram" title="Instagram" src="https://www.svgrepo.com/show/349410/instagram.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.facebook.com/joaovictor281197"><img width="40px" alt="Facebook" title="Facebook" src="https://www.svgrepo.com/show/475647/facebook-color.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://phrasemidia.com.br/portifolio/"><img width="40px" alt="Web Site" title="Portfolio" src="https://www.svgrepo.com/show/331784/web-sites.svg"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:joaovictor@phrasemidia.com.br"><img width="40px" alt="Email" title="Email" src="https://www.svgrepo.com/show/349354/email.svg"/></a>
-  </p>
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sejoaovb/">
+    <img width="40px" alt="LinkedIn" title="LinkedIn"
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/sejoaovb">
+    <img width="40px" alt="Instagram" title="Instagram"
+      src="https://cdn.simpleicons.org/instagram/E4405F"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/joaovictor281197">
+    <img width="40px" alt="Facebook" title="Facebook"
+      src="https://cdn.simpleicons.org/facebook/0866FF"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://phrasemidia.com.br/portifolio/">
+    <img width="40px" alt="Portfolio" title="Portfolio"
+      src="https://cdn.simpleicons.org/googlechrome/4285F4"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:joaovictor@phrasemidia.com.br">
+    <img width="40px" alt="Email" title="Email"
+      src="https://cdn.simpleicons.org/gmail/EA4335"/>
+  </a>
+</p>
+
    
 </div>
 
