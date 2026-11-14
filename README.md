@@ -72,8 +72,12 @@
   
 <p align="center">
   <a href="https://www.linkedin.com/in/sejoaovb/">
-    <img width="40px" alt="LinkedIn" title="LinkedIn"
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
+    <img
+      width="40px"
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="./.github/assets/icons/linkedin.svg"
+    />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/sejoaovb">
